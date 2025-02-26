@@ -30,6 +30,9 @@ The app will launch in your terminal and you will see aforementioned interactive
 > [!NOTE]
 > For better visual experience launch the app in your terminal on fullscreen.
 
+## Dataset
+The dataset used in this app comes from [this Kaggle's Machine Learning competition](https://www.kaggle.com/c/titanic/data).
+
 ## Tech Stack
 * Python
 * Pandas
